@@ -1,6 +1,11 @@
 package org.git3;
 
 public class ProjectGit3 {
+	private void intit() {
+		System.out.println("g");
+		System.out.println("h");
+		System.out.println("j");
+	}
 	public static void main(String[] args) {
 		int a=10;
 		int b=20;
